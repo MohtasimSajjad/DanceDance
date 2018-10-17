@@ -2,3 +2,5 @@ Step left.
 Setp right.
 Jump up and down.
 Do the rainbow dance.
+
+Adding a new dance. 
